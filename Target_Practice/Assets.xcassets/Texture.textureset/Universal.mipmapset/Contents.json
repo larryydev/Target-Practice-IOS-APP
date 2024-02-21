@@ -1,0 +1,12 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "levels" : [
+    {
+      "filename" : "WA_80_cm_archery_target.svg.png",
+      "mipmap-level" : "base"
+    }
+  ]
+}
