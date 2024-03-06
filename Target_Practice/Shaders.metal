@@ -2,8 +2,6 @@
 //  Shaders.metal
 //  AudioLabSwift
 //
-//  Created by Eric Larson 
-//  Copyright © 2020 Eric Larson. All rights reserved.
 //
 // started with shader code from the following very helpful repository:
 //   https://github.com/RedQueenCoder/Metal-Learning-Projects/blob/master/2DDrawing/Star/Star/GameViewController.swift
